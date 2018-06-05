@@ -3,7 +3,7 @@ Statistic the user actions of MOOC.
 
 * 登录网址：[MOOCStatistic signon](http://123.206.205.246/signon.jsp)
 * 注册网址：[MOOCStatistic signup](http://123.206.205.246/signup.jsp)
-* 管理网址：[MOOCStatistic datadisplay](http://123.206.205.246/admin.jsp)
+* 管理网址：[MOOCStatistic admin](http://123.206.205.246/admin.jsp)
 
 ## 架构设计
 ### 蓝图
